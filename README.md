@@ -10,9 +10,9 @@ A beginner-friendly Python project that demonstrates various ways to convert tem
 ```
 
 TempConvertPy/
-├── celsius\_to\_fahrenheit.py       # Basic Celsius to Fahrenheit converter
-├── advanced\_temp\_converter.py     # Advanced CLI for Celsius, Fahrenheit, Kelvin conversions
-├── temp\_converter\_gui.py          # GUI-based temperature converter using Tkinter
+├── celsius_to_fahrenheit.py       # Basic Celsius to Fahrenheit converter
+├── advanced_temp_converter.py     # Advanced CLI for Celsius, Fahrenheit, Kelvin conversions
+├── temp_converter_gui.py          # GUI-based temperature converter using Tkinter
 
 ````
 
